@@ -18,12 +18,12 @@ const ITEMS = [
     tags: ["matte", "math", "räkna"]
   },
   {
-    title: "Fysik",
+    title: "Fysik 1",
     subject: "Fysik",
-    desc: "Kommer snart.",
-    href: null,
-    live: false,
-    tags: ["fysik", "physics"]
+    desc: "Prefix, enheter, värdesiffror, tid, hastighet och densitet. Fysik nivå 1, TE26.",
+    href: "https://fysik1.vercel.app",
+    live: true,
+    tags: ["fysik", "physics", "prefix", "enheter", "si", "hastighet", "densitet", "värdesiffror", "te26"]
   },
   {
     title: "English Vocabulary",
