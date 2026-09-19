@@ -1,4 +1,4 @@
-const SUBJECTS = ["Alla", "Kemi", "Matematik", "Fysik", "Engelska", "Svenska", "Biologi"];
+const SUBJECTS = ["Alla", "Kemi", "Matematik", "Fysik", "Engelska", "Svenska", "Samhällskunskap", "Biologi"];
 
 const ITEMS = [
   {
@@ -32,6 +32,14 @@ const ITEMS = [
     href: "https://isaks-englishvocab.vercel.app",
     live: true,
     tags: ["english", "engelska", "vocab", "glosor", "ord", "viewpoints"]
+  },
+  {
+    title: "Ideologi och politik",
+    subject: "Samhällskunskap",
+    desc: "Valspecial för Samhällskunskap 1. Ideologier, demokrati, riksdag och valsystem.",
+    href: "https://ideologiochpolitik.vercel.app",
+    live: true,
+    tags: ["samhällskunskap", "so", "ideologi", "politik", "demokrati", "riksdag", "val", "te26"]
   },
   {
     title: "Svenska",
