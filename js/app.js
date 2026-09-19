@@ -1,4 +1,4 @@
-const SUBJECTS = ["Alla", "Kemi", "Matematik", "Fysik", "Engelska", "Svenska", "Samhällskunskap", "Biologi"];
+const SUBJECTS = ["Alla", "Kemi", "Matematik", "Fysik", "Engelska", "Svenska", "Samhällskunskap"];
 
 const ITEMS = [
   {
@@ -48,14 +48,6 @@ const ITEMS = [
     href: null,
     live: false,
     tags: ["svenska"]
-  },
-  {
-    title: "Biologi",
-    subject: "Biologi",
-    desc: "Kommer snart.",
-    href: null,
-    live: false,
-    tags: ["biologi"]
   }
 ];
 
