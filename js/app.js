@@ -2,6 +2,14 @@ const SUBJECTS = ["Alla", "Kemi", "Matematik", "Fysik", "Engelska", "Svenska", "
 
 const ITEMS = [
   {
+    title: "Kemi 1",
+    subject: "Kemi",
+    desc: "Materiens byggstenar och periodiska systemet. Atomer, joner, skal och trender. Kemi nivå 1, TE26.",
+    href: "https://kemi1.vercel.app",
+    live: true,
+    tags: ["kemi", "periodiska systemet", "atomer", "joner", "isotoper", "elektroner", "te26", "gy25"]
+  },
+  {
     title: "Plugga joner",
     subject: "Kemi",
     desc: "28 viktiga joner – namn och formel. Quiz, kort och miniquiz.",
