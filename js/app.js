@@ -26,12 +26,12 @@ const ITEMS = [
     tags: ["fysik", "physics"]
   },
   {
-    title: "Engelska",
+    title: "English Vocabulary",
     subject: "Engelska",
-    desc: "Kommer snart.",
-    href: null,
-    live: false,
-    tags: ["english", "vocab", "ord"]
+    desc: "16 glosor från On the Other Side, Viewpoints 1. Flashcards, luckor och test.",
+    href: "https://isaks-englishvocab.vercel.app",
+    live: true,
+    tags: ["english", "engelska", "vocab", "glosor", "ord", "viewpoints"]
   },
   {
     title: "Svenska",
